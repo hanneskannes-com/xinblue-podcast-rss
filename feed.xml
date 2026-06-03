@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>XinBlue Podcast</title>
+    <description><![CDATA[Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.]]></description>
+    <language>de</language>
+    <link>https://xinblue.com</link>
+    <copyright>© 2026 XinBlue</copyright>
+    <itunes:author>XinBlue</itunes:author>
+    <itunes:owner>
+      <itunes:name>XinBlue</itunes:name>
+      <itunes:email>hannesbullwinkel@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://hanneskannes-com.github.io/xinblue-podcast-rss/cover.jpg"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
+      <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
+
+Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.
+
+KAPITEL
+(00:00) Intro & Themen-Setup
+(01:06) Was ist gerecht? Pro- und Contra-Argumente
+(01:51) Das ökonomische Argument: Wer zahlt die Zeche?
+(06:58) Pendlerpauschale — eine echte Alternative?
+(07:44) Öffentlicher Nahverkehr statt Tankrabatt?
+(08:51) Zahlen statt Bauchgefühl: Szenario-Simulationen
+(10:12) Können KI-Agenten die Zukunft vorhersagen?
+(11:21) Martins Empfehlung an die Politik
+(12:13) Das Fazit: aus der Vergangenheit lernen
+(12:54) Verabschiedung
+
+GESPRÄCH ZWISCHEN
+Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)
+
+Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw
+Instagram: https://www.instagram.com/xinblue.de/
+LinkedIn: https://www.linkedin.com/company/80103823
+Website: https://xinblue.com]]></description>
+      <content:encoded><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
+
+Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.
+
+KAPITEL
+(00:00) Intro & Themen-Setup
+(01:06) Was ist gerecht? Pro- und Contra-Argumente
+(01:51) Das ökonomische Argument: Wer zahlt die Zeche?
+(06:58) Pendlerpauschale — eine echte Alternative?
+(07:44) Öffentlicher Nahverkehr statt Tankrabatt?
+(08:51) Zahlen statt Bauchgefühl: Szenario-Simulationen
+(10:12) Können KI-Agenten die Zukunft vorhersagen?
+(11:21) Martins Empfehlung an die Politik
+(12:13) Das Fazit: aus der Vergangenheit lernen
+(12:54) Verabschiedung
+
+GESPRÄCH ZWISCHEN
+Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)
+
+Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw
+Instagram: https://www.instagram.com/xinblue.de/
+LinkedIn: https://www.linkedin.com/company/80103823
+Website: https://xinblue.com]]></content:encoded>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0200</pubDate>
+      <guid isPermaLink="false">xinblue-ep-001</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-001.mp3" length="12645267" type="audio/mpeg"/>
+      <itunes:duration>0:13:10</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
