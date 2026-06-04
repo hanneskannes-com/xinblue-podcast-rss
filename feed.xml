@@ -18,7 +18,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
+<item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
 
@@ -71,6 +71,58 @@ Website: https://xinblue.com]]></content:encoded>
       <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-001.mp3" length="12645267" type="audio/mpeg"/>
       <itunes:duration>0:13:10</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Generative KI &amp; Produktivität — Hype oder Realität?</title>
+      <description><![CDATA[Mehr Output bei gleichem Input — das ist das Versprechen generativer KI. Aber löst es das echte Produktivitätsproblem? Jürgen Weigand denkt über Wirkungsgrade, neue Skills und die Frage, wie wir mit der Geschwindigkeit der Entwicklung Schritt halten.
+
+Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.
+
+KAPITEL
+(00:00) Intro & Begriffsklärung: Produktivität
+(02:29) Was wir aus früheren Tech-Wellen lernen
+(03:36) Wohin entwickelt sich Arbeit, wenn KI Teile übernimmt?
+(04:27) Hält KI dieses Mal ihr Versprechen?
+(05:54) Buzzword-Welle oder ein nachhaltiger Sprung?
+(07:43) Prognosen wagen, ohne Glaskugel
+(08:40) Tipps: Wie du der Entwicklung folgen kannst
+(09:07) Verabschiedung
+
+GESPRÄCH ZWISCHEN
+Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)
+
+Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw
+Instagram: https://www.instagram.com/xinblue.de/
+LinkedIn: https://www.linkedin.com/company/80103823
+Website: https://xinblue.com]]></description>
+      <content:encoded><![CDATA[Mehr Output bei gleichem Input — das ist das Versprechen generativer KI. Aber löst es das echte Produktivitätsproblem? Jürgen Weigand denkt über Wirkungsgrade, neue Skills und die Frage, wie wir mit der Geschwindigkeit der Entwicklung Schritt halten.
+
+Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.
+
+KAPITEL
+(00:00) Intro & Begriffsklärung: Produktivität
+(02:29) Was wir aus früheren Tech-Wellen lernen
+(03:36) Wohin entwickelt sich Arbeit, wenn KI Teile übernimmt?
+(04:27) Hält KI dieses Mal ihr Versprechen?
+(05:54) Buzzword-Welle oder ein nachhaltiger Sprung?
+(07:43) Prognosen wagen, ohne Glaskugel
+(08:40) Tipps: Wie du der Entwicklung folgen kannst
+(09:07) Verabschiedung
+
+GESPRÄCH ZWISCHEN
+Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)
+
+Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw
+Instagram: https://www.instagram.com/xinblue.de/
+LinkedIn: https://www.linkedin.com/company/80103823
+Website: https://xinblue.com]]></content:encoded>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-002</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-002.mp3" length="8914707" type="audio/mpeg"/>
+      <itunes:duration>0:09:17</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
