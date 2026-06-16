@@ -74,5 +74,25 @@ Website: https://xinblue.com]]></content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-</channel>
+    <item>
+      <title>#002 — Generative KI &amp; Produktivität — Hype oder Realität?</title>
+      <description><![CDATA[<p>Mehr Output bei gleichem Input — das ist das Versprechen generativer KI. Aber löst es das echte Produktivitätsproblem? Jürgen Weigand denkt über Wirkungsgrade, neue Skills und die Frage, wie wir mit der Geschwindigkeit der Entwicklung Schritt halten.</p>
+<p>Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.</p>
+<p>KAPITEL<br>(00:00) Intro & Begriffsklärung: Produktivität<br>(02:29) Was wir aus früheren Tech-Wellen lernen<br>(03:36) Wohin entwickelt sich Arbeit, wenn KI Teile übernimmt?<br>(04:27) Hält KI dieses Mal ihr Versprechen?<br>(05:54) Buzzword-Welle oder ein nachhaltiger Sprung?<br>(07:43) Prognosen wagen, ohne Glaskugel<br>(08:40) Tipps: Wie du der Entwicklung folgen kannst<br>(09:07) Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>Mehr Output bei gleichem Input — das ist das Versprechen generativer KI. Aber löst es das echte Produktivitätsproblem? Jürgen Weigand denkt über Wirkungsgrade, neue Skills und die Frage, wie wir mit der Geschwindigkeit der Entwicklung Schritt halten.</p>
+<p>Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.</p>
+<p>KAPITEL<br>(00:00) Intro & Begriffsklärung: Produktivität<br>(02:29) Was wir aus früheren Tech-Wellen lernen<br>(03:36) Wohin entwickelt sich Arbeit, wenn KI Teile übernimmt?<br>(04:27) Hält KI dieses Mal ihr Versprechen?<br>(05:54) Buzzword-Welle oder ein nachhaltiger Sprung?<br>(07:43) Prognosen wagen, ohne Glaskugel<br>(08:40) Tipps: Wie du der Entwicklung folgen kannst<br>(09:07) Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 16 Jun 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-002</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-002.mp3" length="8892429" type="audio/mpeg"/>
+      <itunes:duration>0:09:15</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
 </rss>
