@@ -94,5 +94,51 @@ Website: https://xinblue.com]]></content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>#003 — Warum 90 % aller KI-Projekte scheitern</title>
+      <description><![CDATA[<p>KI kennt keine Ursache und Wirkung — nur Muster. Programmierung ist eine Kunst. Und die meisten Unternehmen starten die KI-Transformation am falschen Ende. Martin Prause, Code Artist und Programmierer seit Jahrzehnten, über Chatbot-Hype, systemisches Denken und warum Prozessklarheit vor KI kommt.</p>
+<p>Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.</p>
+<p>KAPITEL<br>
+(00:00) Intro & Gast: Martin Prause<br>
+(00:31) Chatbots allein retten kein Unternehmen<br>
+(01:19) Programmierung als Kunst<br>
+(01:51) KI kennt keine Kausalität — nur Korrelationen<br>
+(03:22) Wie lernst du, mit KI zu arbeiten?<br>
+(04:41) Informatikstudium in der KI-Ära<br>
+(07:23) Brauche ich noch eigene IT?<br>
+(09:00) KI-Transformation: Erst Prozesse, dann Tools<br>
+(11:17) Empfehlung & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>
+Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>
+Instagram: https://www.instagram.com/xinblue.de/<br>
+LinkedIn: https://www.linkedin.com/company/80103823<br>
+Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>KI kennt keine Ursache und Wirkung — nur Muster. Programmierung ist eine Kunst. Und die meisten Unternehmen starten die KI-Transformation am falschen Ende. Martin Prause, Code Artist und Programmierer seit Jahrzehnten, über Chatbot-Hype, systemisches Denken und warum Prozessklarheit vor KI kommt.</p>
+<p>Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.</p>
+<p>KAPITEL<br>
+(00:00) Intro & Gast: Martin Prause<br>
+(00:31) Chatbots allein retten kein Unternehmen<br>
+(01:19) Programmierung als Kunst<br>
+(01:51) KI kennt keine Kausalität — nur Korrelationen<br>
+(03:22) Wie lernst du, mit KI zu arbeiten?<br>
+(04:41) Informatikstudium in der KI-Ära<br>
+(07:23) Brauche ich noch eigene IT?<br>
+(09:00) KI-Transformation: Erst Prozesse, dann Tools<br>
+(11:17) Empfehlung & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>
+Jürgen Weigand (Co-Founder, XinBlue) und Martin Prause (Code Artist, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>
+Instagram: https://www.instagram.com/xinblue.de/<br>
+LinkedIn: https://www.linkedin.com/company/80103823<br>
+Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0200</pubDate>
+      <guid isPermaLink="false">xinblue-ep-003</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-003.mp3" length="11512083" type="audio/mpeg"/>
+      <itunes:duration>0:11:59</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
