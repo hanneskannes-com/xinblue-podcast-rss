@@ -2,8 +2,11 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://hanneskannes-com.github.io/xinblue-podcast-rss/feed.xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <title>XinBlue Podcast</title>
     <description><![CDATA[Denke weiter. Entscheide besser. Führe klarer: Ein Blick auf die verborgenen Logiken, die unser Leben, unsere Wirtschaft und unsere Gesellschaft formen.]]></description>
     <language>de</language>
@@ -18,6 +21,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Tue, 30 Jun 2026 07:16:25 +0000</lastBuildDate>
 <item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
