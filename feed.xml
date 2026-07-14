@@ -21,7 +21,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 30 Jun 2026 07:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:00:57 +0000</lastBuildDate>
 <item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
@@ -141,6 +141,26 @@ Website: https://xinblue.com</p>]]></content:encoded>
       <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-003.mp3" length="11512083" type="audio/mpeg"/>
       <itunes:duration>0:11:59</itunes:duration>
       <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>Was wirklich passiert, wenn Entscheidungen Millionen kosten | Zwischen Vorstand und Wahnsinn #004</title>
+      <description><![CDATA[<p>Ein KI-Plugin, dem alle vertrauen — und plötzlich fließen Unternehmensdaten ab. Martin Prause und Jürgen Weigand zeigen an einem realen Sicherheitsvorfall, warum blindes Vertrauen in Technologie zum Millionenrisiko wird und weshalb Redundanz die bessere Antwort ist als die eine perfekte Lösung.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Intro: Das Gedankenexperiment der Anweisungskette<br>(02:42) Plug-ins vs. Agenten — was steckt dahinter?<br>(03:40) Der Vorfall: geerbte Sternchen auf GitHub<br>(05:51) Wie entstehen solche Sicherheitslücken?<br>(06:57) Kleine Ursache, große Wirkung: Systeme kippen<br>(08:11) Kipppunkte: Warum Regeln allein nicht schützen<br>(10:10) Hilft ein Sicherheits-LLM? Nur eine Verschiebung<br>(11:55) Vorstand & Wahnsinn: Ende der Unsicherheit?<br>(13:54) Fazit: Redundanz statt blindem Vertrauen</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>Ein KI-Plugin, dem alle vertrauen — und plötzlich fließen Unternehmensdaten ab. Martin Prause und Jürgen Weigand zeigen an einem realen Sicherheitsvorfall, warum blindes Vertrauen in Technologie zum Millionenrisiko wird und weshalb Redundanz die bessere Antwort ist als die eine perfekte Lösung.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Intro: Das Gedankenexperiment der Anweisungskette<br>(02:42) Plug-ins vs. Agenten — was steckt dahinter?<br>(03:40) Der Vorfall: geerbte Sternchen auf GitHub<br>(05:51) Wie entstehen solche Sicherheitslücken?<br>(06:57) Kleine Ursache, große Wirkung: Systeme kippen<br>(08:11) Kipppunkte: Warum Regeln allein nicht schützen<br>(10:10) Hilft ein Sicherheits-LLM? Nur eine Verschiebung<br>(11:55) Vorstand & Wahnsinn: Ende der Unsicherheit?<br>(13:54) Fazit: Redundanz statt blindem Vertrauen</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 14 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-004</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-004.mp3" length="20862787" type="audio/mpeg"/>
+      <itunes:duration>0:14:29</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
