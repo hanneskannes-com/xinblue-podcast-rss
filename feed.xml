@@ -21,7 +21,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 14 Jul 2026 12:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:01:02 +0000</lastBuildDate>
 <item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
@@ -161,6 +161,26 @@ Website: https://xinblue.com</p>]]></content:encoded>
       <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-004.mp3" length="20862787" type="audio/mpeg"/>
       <itunes:duration>0:14:29</itunes:duration>
       <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>Hinter Nvidia: Die unterschätzten Gewinner des KI-Booms</title>
+      <description><![CDATA[<p>Alle reden über Nvidia. Aber wer hält wirklich die Macht im KI-Markt? Jürgen Weigand (Industrieökonomie) und Martin Prause zerlegen die Wertschöpfungskette hinter dem KI-Boom: von Nvidia über den Chip-Fertiger TSMC bis zum niederländischen Monopolisten ASML — und den deutschen Familienunternehmen Trumpf und Zeiss, ohne die keine Chip-Maschine läuft. Dazu: Warum China rund 80 % aller Rohstoffe kontrolliert, was das für Investoren heißt, und warum Wettbewerb heute zwischen Ökosystemen statt Unternehmen stattfindet (Stichwort: Coopetition).</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>THEMEN<br>- Nvidias Transformation: von Grafikkarten zur Plattform<br>- Die Kette: Nvidia → TSMC → ASML<br>- Trumpf & Zeiss: Deutschlands versteckte Schlüsselrolle<br>- China & Rohstoffe: der geopolitische Flaschenhals<br>- Was das für Investoren heißt<br>- Coopetition: Wettbewerb der Ökosysteme</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>Alle reden über Nvidia. Aber wer hält wirklich die Macht im KI-Markt? Jürgen Weigand (Industrieökonomie) und Martin Prause zerlegen die Wertschöpfungskette hinter dem KI-Boom: von Nvidia über den Chip-Fertiger TSMC bis zum niederländischen Monopolisten ASML — und den deutschen Familienunternehmen Trumpf und Zeiss, ohne die keine Chip-Maschine läuft. Dazu: Warum China rund 80 % aller Rohstoffe kontrolliert, was das für Investoren heißt, und warum Wettbewerb heute zwischen Ökosystemen statt Unternehmen stattfindet (Stichwort: Coopetition).</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>THEMEN<br>- Nvidias Transformation: von Grafikkarten zur Plattform<br>- Die Kette: Nvidia → TSMC → ASML<br>- Trumpf & Zeiss: Deutschlands versteckte Schlüsselrolle<br>- China & Rohstoffe: der geopolitische Flaschenhals<br>- Was das für Investoren heißt<br>- Coopetition: Wettbewerb der Ökosysteme</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 28 Jul 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-005</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-005.mp3" length="19441875" type="audio/mpeg"/>
+      <itunes:duration>0:13:30</itunes:duration>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
