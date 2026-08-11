@@ -21,7 +21,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 28 Jul 2026 07:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:01:01 +0000</lastBuildDate>
 <item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
@@ -181,6 +181,26 @@ Website: https://xinblue.com</p>]]></content:encoded>
       <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-005.mp3" length="19441875" type="audio/mpeg"/>
       <itunes:duration>0:13:30</itunes:duration>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>Der Digital Services Act Stresstest: Was Vorstände vom Fall Meta lernen können | Zwischen Vorstand und Wahnsinn #006</title>
+      <description><![CDATA[<p>Die EU-Kommission stellt fest: Meta hält die Pflichten aus dem Digital Services Act nicht ein. Martin Prause erklärt, warum das kein Einzelfall ist, sondern ein Systemproblem — und warum jede Regulierung strukturell zu spät kommt. Ein Blick auf Algorithmen, die zeigen, was gefällt, auf Ausweichmanöver, die kein böser Wille sind, und auf die Frage, was Vorstände daraus für den Umgang mit Regulierung mitnehmen.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Teaser<br>(00:13) Intro & der Fall Meta<br>(02:55) Was der DSA regelt — und für wen<br>(03:43) Der Algorithmus zeigt nur, was gefällt<br>(05:46) Doomscrolling & der Abspann, der nie kommt<br>(08:12) Warum Regulierung immer umgangen wird<br>(09:47) Das Tempo-Problem: Technik vs. Gesetz<br>(12:13) Was könnte die Kommission jetzt tun?<br>(13:16) Fazit & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>Die EU-Kommission stellt fest: Meta hält die Pflichten aus dem Digital Services Act nicht ein. Martin Prause erklärt, warum das kein Einzelfall ist, sondern ein Systemproblem — und warum jede Regulierung strukturell zu spät kommt. Ein Blick auf Algorithmen, die zeigen, was gefällt, auf Ausweichmanöver, die kein böser Wille sind, und auf die Frage, was Vorstände daraus für den Umgang mit Regulierung mitnehmen.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Teaser<br>(00:13) Intro & der Fall Meta<br>(02:55) Was der DSA regelt — und für wen<br>(03:43) Der Algorithmus zeigt nur, was gefällt<br>(05:46) Doomscrolling & der Abspann, der nie kommt<br>(08:12) Warum Regulierung immer umgangen wird<br>(09:47) Das Tempo-Problem: Technik vs. Gesetz<br>(12:13) Was könnte die Kommission jetzt tun?<br>(13:16) Fazit & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 11 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-006</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-006.mp3" length="19460325" type="audio/mpeg"/>
+      <itunes:duration>0:13:31</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
