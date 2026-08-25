@@ -21,7 +21,7 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Tue, 11 Aug 2026 12:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:37:22 +0000</lastBuildDate>
 <item>
       <title>Tankrabatt — Wer zahlt wirklich die Zeche?</title>
       <description><![CDATA[17 Cent Rabatt pro Liter, 1,5 Milliarden Euro Kosten — und am Ende ein Nullsummenspiel? Martin Prause zerlegt den Tankrabatt aus systemischer Sicht und zeigt, warum die scheinbare Entlastung am Ende zu einer Subvention der Mineralölkonzerne wird.
@@ -201,6 +201,26 @@ Website: https://xinblue.com</p>]]></content:encoded>
       <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-006.mp3" length="19460325" type="audio/mpeg"/>
       <itunes:duration>0:13:31</itunes:duration>
       <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      <item>
+      <title>Alle wetten auf KI. Was, wenn sie falsch liegen? | Zwischen Vorstand und Wahnsinn #007</title>
+      <description><![CDATA[<p>Die Investitionen in KI übersteigen die Profite bei weitem — und alle Erwartungen zeigen in dieselbe Richtung. Martin Prause erklärt, warum ein System ohne ausgleichende Kräfte sich so lange aufschaukelt, bis es kippt: von der Top-Heavy Economy über Single Points of Failure bis zu der Frage, was passiert, wenn Agentic AI die Erwartungen doch nicht einlöst. Jürgen Weigand ordnet ein, was das für Entscheider heißt, die jetzt investieren müssen.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Teaser<br>(00:16) Intro: Von VUCA zu BANI<br>(04:51) Alle wetten in dieselbe Richtung<br>(07:55) Warum sich das System aufschaukelt<br>(09:24) Wir denken linear, das System nicht<br>(12:55) Was mache ich als Vorstand jetzt?<br>(14:12) Agentic AI — und was darunter liegt<br>(16:02) Die nächste Wette: Weltmodelle<br>(17:54) Fazit & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></description>
+      <content:encoded><![CDATA[<p>Die Investitionen in KI übersteigen die Profite bei weitem — und alle Erwartungen zeigen in dieselbe Richtung. Martin Prause erklärt, warum ein System ohne ausgleichende Kräfte sich so lange aufschaukelt, bis es kippt: von der Top-Heavy Economy über Single Points of Failure bis zu der Frage, was passiert, wenn Agentic AI die Erwartungen doch nicht einlöst. Jürgen Weigand ordnet ein, was das für Entscheider heißt, die jetzt investieren müssen.</p>
+<p>Strategien. Insights. Praxis.</p>
+<p>KAPITEL<br>(00:00) Teaser<br>(00:16) Intro: Von VUCA zu BANI<br>(04:51) Alle wetten in dieselbe Richtung<br>(07:55) Warum sich das System aufschaukelt<br>(09:24) Wir denken linear, das System nicht<br>(12:55) Was mache ich als Vorstand jetzt?<br>(14:12) Agentic AI — und was darunter liegt<br>(16:02) Die nächste Wette: Weltmodelle<br>(17:54) Fazit & Verabschiedung</p>
+<p>GESPRÄCH ZWISCHEN<br>Martin Prause (Code Artist, XinBlue) und Jürgen Weigand (Co-Founder, XinBlue)</p>
+<p>Auch auf YouTube: https://www.youtube.com/channel/UCuBhZubKMYpRKmtM3fKekiw<br>Instagram: https://www.instagram.com/xinblue.de/<br>LinkedIn: https://www.linkedin.com/company/80103823<br>Website: https://xinblue.com</p>]]></content:encoded>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">xinblue-ep-007</guid>
+      <enclosure url="https://hanneskannes-com.github.io/xinblue-podcast-rss/episodes/xinblue-ep-007.mp3" length="26114026" type="audio/mpeg"/>
+      <itunes:duration>0:18:08</itunes:duration>
+      <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
